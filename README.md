@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Face Detection <br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning ML
+🔭 I’m currently working on Face Detection and Financial Assistant app <br>👯 I’m looking to collaborate on ML projects<br>🌱 I’m currently learning ML
 
 
 ## 🌐 Socials:
